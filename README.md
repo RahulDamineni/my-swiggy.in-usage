@@ -14,4 +14,4 @@ I will get to it at some point to run analytics – but if this excites you, go 
 ## Privacy
 * All personally identifiable information (viz., firends' names/ house addresses etc) are obsolete. 
 * Financial markers are obsolete too.
-* So, I feel comfortable sharing my date – however, be responsible with it. 
+* So, I feel comfortable sharing my data – however, be responsible with it. 
